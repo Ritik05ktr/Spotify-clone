@@ -14,7 +14,5 @@ This project replicates the look and feel of Spotify's music streaming interface
 - CSS
 - JavaScript
 
-## 🚀 Live Demo
-👉 [View Live Demo]( https://ritik05ktr.github.io/Spotify-clone/)
 
 
