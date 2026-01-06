@@ -1,21 +1,19 @@
-# 🎵 Spotify Clone
+# Spotify Clone – Web UI
 
-A **Spotify Clone** built using **HTML, CSS, and JavaScript**.  
-This project replicates the look and feel of Spotify's music streaming interface.
+A responsive Spotify web UI clone built using HTML and CSS, replicating the layout and visual design of the Spotify desktop application.
 
-## ✨ Features
-- Stylish UI inspired by Spotify
-- Responsive music player design
-- Playlist section with control buttons
-- Mobile-friendly layout
+## Features
+- Sidebar navigation (Home, Search, Library)
+- Recently played and trending sections
+- Music player controls layout
+- Dark theme UI inspired by Spotify
+- Responsive layout using Flexbox
 
-## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
+## Tech Stack
+HTML5, CSS3
 
-## Live Link
-- https://spotify-clone-murex-one.vercel.app/
+## Live Demo
+https://spotify-clone-murex-one.vercel.app/
 
-
-
+## Purpose
+This project was built to practice modern CSS layout techniques, UI structuring, and responsive design.
