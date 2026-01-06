@@ -14,5 +14,8 @@ This project replicates the look and feel of Spotify's music streaming interface
 - CSS
 - JavaScript
 
+## Live Link
+- https://spotify-clone-murex-one.vercel.app/
+
 
 
